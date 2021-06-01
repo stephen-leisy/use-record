@@ -18,7 +18,6 @@ function App() {
         redo
       </button>
       <input
-        aria-label="color-input"
         placeholder="colors"
         type="color"
         value={current}
